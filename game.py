@@ -1,6 +1,7 @@
 import pygame
 import random
 import sys
+print('starting...')
 
 # Initialize pygame
 pygame.init()
